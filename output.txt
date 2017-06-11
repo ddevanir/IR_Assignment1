@@ -1,0 +1,7 @@
+deep,2
+deepthi,2
+d,1
+name,1
+qwerty,1
+is,1
+my,1
